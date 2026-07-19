@@ -52,7 +52,7 @@
 <h3 align="left">Stats:</h3>
   <a href="https://github.com/0x6ain?tab=repositories">
     <img
-      src="https://github-readme-stats.vercel.app/api/top-langs?username=0x6ain&theme=dark&layout=compact&langs_count=8&card_width=300"
+      src="./profile/top-langs.svg"
       alt="Top Langs"
       height="200"
     />
@@ -60,7 +60,7 @@
   &nbsp;&nbsp;&nbsp;
   <a href="https://github.com/0x6ain">
     <img
-      src="https://github-readme-stats.vercel.app/api?username=0x6ain&show_icons=true&theme=dark&card_width=300"
+      src="./profile/stats.svg"
       alt="GitHub Stats"
       height="200"
     />
