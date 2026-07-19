@@ -67,9 +67,9 @@
   </a>
 
 <picture style="display: block; margin-left: 0;">
-  <source media="(prefers-color-scheme: dark)" srcset="https://github.com/0x6Ain/0x6Ain/blob/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/0x6Ain/0x6Ain/output/github-contribution-grid-snake-dark.svg">
   
-  <source media="(prefers-color-scheme: light)" srcset="https://github.com/0x6Ain/0x6Ain/blob/output/github-contribution-grid-snake.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/0x6Ain/0x6Ain/output/github-contribution-grid-snake.svg">
 
-  <img alt="snake animation" src="https://github.com/0x6Ain/0x6Ain/blob/output/github-contribution-grid-snake.svg">
+  <img alt="snake animation" src="https://raw.githubusercontent.com/0x6Ain/0x6Ain/output/github-contribution-grid-snake.svg">
 </picture>
